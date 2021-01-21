@@ -1,3 +1,3 @@
 ## Minimal Docker Image
 
-Contains only 1 docker image of rust, for testing only.
+Contains only 1 rust docker image, for testing only.

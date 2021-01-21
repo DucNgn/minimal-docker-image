@@ -35,4 +35,4 @@ jobs:
           password: ${{ secrets.DOCKERHUB_TOKEN }}
 
       - name: Docker Deploy
-        run: docker push ${{secrets.DOCKER_USERNAME}}/minimal-docker-image
+        run: docker push ${{secrets.DOCKERHUB_USERNAME}}/minimal-docker-image
