@@ -1,6 +1,6 @@
 ## Minimal Docker Image
 
-![.github/workflows/ci-cd.yml](https://github.com/DukeNgn/minimal-docker-image/workflows/.github/workflows/ci-cd.yml/badge.svg?branch=main)
+[![Build-Push](https://github.com/DukeNgn/minimal-docker-image/actions/workflows/ci-cd.yml/badge.svg?branch=main)](https://github.com/DukeNgn/minimal-docker-image/actions/workflows/ci-cd.yml)
 
 [DockerHub Repo](https://hub.docker.com/repository/docker/dukengn/minimal-docker-image)
 
